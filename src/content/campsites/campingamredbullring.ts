@@ -40,7 +40,7 @@ const campingRot: CampsiteConfig = {
     {
       title: "Über 60.000 m² Platz",
       text: "Auf einer weitläufigen Parkanlage findest du genug Raum für PKW und Zelt, Wohnwagen, Wohnmobil oder Bike — der Platz wird dir bei der Ankunft zugewiesen.",
-      image: { src: `${IMG}/platz-parkanlage.webp`, alt: "Breite Erschließungsstraße auf dem Großgelände von Camping Rot: Wohnmobile und Wohnwagen auf der weitläufigen Stellplatzfläche in Spielberg" },
+      image: { src: `${IMG}/platz-parkanlage.webp`, alt: "Erschließungsstraße durch das Camping-Rot-Gelände in Spielberg: Wohnmobile, Transporter und Wohnwagen auf der weitläufigen Stellfläche, steirisches Bergpanorama im Hintergrund" },
     },
     {
       title: "Bis tief in die Nacht",
