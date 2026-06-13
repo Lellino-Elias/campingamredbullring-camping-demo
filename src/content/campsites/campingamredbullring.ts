@@ -40,7 +40,7 @@ const campingRot: CampsiteConfig = {
     {
       title: "Über 60.000 m² Platz",
       text: "Auf einer weitläufigen Parkanlage findest du genug Raum für PKW und Zelt, Wohnwagen, Wohnmobil oder Bike — der Platz wird dir bei der Ankunft zugewiesen.",
-      image: { src: `${IMG}/platz-parkanlage.webp`, alt: "Campinggäste auf der weitläufigen Parkanlage von Camping Rot" },
+      image: { src: `${IMG}/platz-parkanlage.webp`, alt: "Breite Erschließungsstraße auf dem Großgelände von Camping Rot: Wohnmobile und Wohnwagen auf der weitläufigen Stellplatzfläche in Spielberg" },
     },
     {
       title: "Bis tief in die Nacht",
@@ -50,7 +50,7 @@ const campingRot: CampsiteConfig = {
     {
       title: "Mitten in der Obersteiermark",
       text: "Camping am Red Bull Ring nennt sich selbst eine einzigartige Parkanlage — zwischen den Rennen findest du Grün und die steirische Bergkulisse ringsum.",
-      image: { src: `${IMG}/bergkulisse.webp`, alt: "Blick über Felder und Bäume auf die steirische Bergkulisse rund um Spielberg — Heimat von Camping Rot am Red Bull Ring" },
+      image: { src: `${IMG}/bergkulisse.webp`, alt: "Panoramablick über die gesamte Zeltstadt von Camping Rot bei Sonnenuntergang: Hunderte Camper auf dem Großgelände mit dem Bergpanorama der Obersteiermark im Hintergrund" },
     },
   ],
 
@@ -73,7 +73,7 @@ const campingRot: CampsiteConfig = {
   awards: [],
 
   hero: {
-    aerial: { src: `${IMG}/hero-zeltstadt.webp`, alt: "Camping Rot am Red Bull Ring: weitläufige Zeltstadt vor der steirischen Bergkulisse im Abendlicht" },
+    aerial: { src: `${IMG}/hero-zeltstadt.webp`, alt: "Camping Rot am Red Bull Ring: steirische Weite in der Markenfarbe Rot — Campingplatz direkt an der Rennstrecke in Spielberg" },
   },
 
   camping: {
