@@ -50,7 +50,7 @@ const campingRot: CampsiteConfig = {
     {
       title: "Mitten in der Obersteiermark",
       text: "Camping am Red Bull Ring nennt sich selbst eine einzigartige Parkanlage — zwischen den Rennen findest du Grün und die steirische Bergkulisse ringsum.",
-      image: { src: `${IMG}/bergkulisse.webp`, alt: "Panoramablick über die gesamte Zeltstadt von Camping Rot bei Sonnenuntergang: Hunderte Camper auf dem Großgelände mit dem Bergpanorama der Obersteiermark im Hintergrund" },
+      image: { src: `${IMG}/bergkulisse.webp`, alt: "Weite steirische Landschaft mit Baumreihen und der Bergkulisse der Obersteiermark rund um Camping Rot am Red Bull Ring" },
     },
   ],
 
@@ -73,7 +73,7 @@ const campingRot: CampsiteConfig = {
   awards: [],
 
   hero: {
-    aerial: { src: `${IMG}/hero-zeltstadt.webp`, alt: "Camping Rot am Red Bull Ring: steirische Weite in der Markenfarbe Rot — Campingplatz direkt an der Rennstrecke in Spielberg" },
+    aerial: { src: `${IMG}/hero-zeltstadt.webp`, alt: "Panoramablick über die Zeltstadt von Camping Rot am Red Bull Ring bei Sonnenuntergang: hunderte Camper auf dem Großgelände vor der Bergkulisse der Obersteiermark" },
   },
 
   camping: {
