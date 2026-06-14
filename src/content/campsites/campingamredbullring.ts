@@ -39,17 +39,17 @@ const campingRot: CampsiteConfig = {
   pillars: [
     {
       title: "Über 60.000 m² Platz",
-      text: "Auf einer weitläufigen Parkanlage findest du genug Raum für PKW und Zelt, Wohnwagen, Wohnmobil oder Bike — der Platz wird dir bei der Ankunft zugewiesen.",
+      text: "Genug Raum für Zelt und PKW, Wohnwagen, Wohnmobil oder Bike — der Stellplatz wird bei der Ankunft zugewiesen.",
       image: { src: `${IMG}/platz-parkanlage.webp`, alt: "Erschließungsstraße durch das Camping-Rot-Gelände in Spielberg: Wohnmobile, Transporter und Wohnwagen auf der weitläufigen Stellfläche, steirisches Bergpanorama im Hintergrund" },
     },
     {
       title: "Bis tief in die Nacht",
-      text: "Wenn die Strecke ruht, sitzt du mit anderen Fans zwischen den Zelten zusammen — Renn-Atmosphäre, die erst nach Mitternacht zur Nachtruhe kommt.",
+      text: "Wenn die Strecke ruht, sitzt du mit anderen Fans zusammen — Renn-Atmosphäre, die erst nach Mitternacht endet.",
       image: { src: `${IMG}/daemmerung.webp`, alt: "Camping Rot in der Dämmerung mit Zelten und Wohnmobilen unter dem Mond" },
     },
     {
       title: "Mitten in der Obersteiermark",
-      text: "Camping am Red Bull Ring nennt sich selbst eine einzigartige Parkanlage — zwischen den Rennen findest du Grün und die steirische Bergkulisse ringsum.",
+      text: "Zwischen den Rennen findest du auf der weitläufigen Parkanlage Grün und die steirische Bergkulisse ringsum.",
       image: { src: `${IMG}/bergkulisse.webp`, alt: "Weite steirische Landschaft mit Baumreihen und der Bergkulisse der Obersteiermark rund um Camping Rot am Red Bull Ring" },
     },
   ],
@@ -93,7 +93,7 @@ const campingRot: CampsiteConfig = {
       },
       {
         title: "Klare Anreise über die S36",
-        text: "Über die Schnellstraße S36, Ausfahrt Zeltweg West, fährst du zielgerichtet an — die Ausfahrt Zeltweg Ost wird ausdrücklich nicht empfohlen.",
+        text: "Über die S36, Ausfahrt Zeltweg West, fährst du direkt an — die Ausfahrt Zeltweg Ost wird nicht empfohlen.",
         image: { src: `${IMG}/anfahrtsplan.webp`, alt: "Offizieller Anfahrtsplan zu den Campingplätzen am Red Bull Ring über die S36" },
       },
     ],
